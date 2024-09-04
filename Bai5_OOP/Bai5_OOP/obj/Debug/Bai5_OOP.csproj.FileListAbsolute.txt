@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Bai5_OOP\Bai5_OOP\obj\Debug\Bai5_OOP.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Bai5_OOP\Bai5_OOP\obj\Debug\Bai5_OOP.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Bai5_OOP\Bai5_OOP\bin\Debug\Bai5_OOP.exe.config
+C:\Users\lenovo\source\repos\Bai5_OOP\Bai5_OOP\bin\Debug\Bai5_OOP.exe
+C:\Users\lenovo\source\repos\Bai5_OOP\Bai5_OOP\bin\Debug\Bai5_OOP.pdb
+C:\Users\lenovo\source\repos\Bai5_OOP\Bai5_OOP\obj\Debug\Bai5_OOP.exe
+C:\Users\lenovo\source\repos\Bai5_OOP\Bai5_OOP\obj\Debug\Bai5_OOP.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Bai1_oop\Bai1_oop\bin\Debug\Bai1_oop.exe.config
+C:\Users\lenovo\source\repos\Bai1_oop\Bai1_oop\bin\Debug\Bai1_oop.exe
+C:\Users\lenovo\source\repos\Bai1_oop\Bai1_oop\bin\Debug\Bai1_oop.pdb
+C:\Users\lenovo\source\repos\Bai1_oop\Bai1_oop\obj\Debug\Bai1_oop.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Bai1_oop\Bai1_oop\obj\Debug\Bai1_oop.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Bai1_oop\Bai1_oop\obj\Debug\Bai1_oop.exe
+C:\Users\lenovo\source\repos\Bai1_oop\Bai1_oop\obj\Debug\Bai1_oop.pdb
