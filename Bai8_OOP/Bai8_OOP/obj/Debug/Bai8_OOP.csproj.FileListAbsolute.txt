@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Bai8_OOP\Bai8_OOP\bin\Debug\Bai8_OOP.exe.config
+C:\Users\lenovo\source\repos\Bai8_OOP\Bai8_OOP\bin\Debug\Bai8_OOP.exe
+C:\Users\lenovo\source\repos\Bai8_OOP\Bai8_OOP\bin\Debug\Bai8_OOP.pdb
+C:\Users\lenovo\source\repos\Bai8_OOP\Bai8_OOP\obj\Debug\Bai8_OOP.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Bai8_OOP\Bai8_OOP\obj\Debug\Bai8_OOP.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Bai8_OOP\Bai8_OOP\obj\Debug\Bai8_OOP.exe
+C:\Users\lenovo\source\repos\Bai8_OOP\Bai8_OOP\obj\Debug\Bai8_OOP.pdb
